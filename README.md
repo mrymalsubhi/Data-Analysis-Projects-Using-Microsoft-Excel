@@ -27,7 +27,3 @@ This project analyzed the stock market performance of the top five companies in 
 - **Dashboard Creation**: Visual dashboards were developed to present stock performance.
 
 
-
-**Conclusion:**
-These projects demonstrate the use of Microsoft Excel for analyzing diverse datasets, providing valuable insights for decision-making.
-
