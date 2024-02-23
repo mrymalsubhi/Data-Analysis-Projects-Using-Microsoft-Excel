@@ -2,6 +2,8 @@
 
 ### Completed as part of Tuwaiq Academy Course
 
+--- 
+
 ### 1️⃣ Project 1: Employee Analysis 👩🏻‍💼🧑🏻‍💼
 
 **Objective:**
@@ -12,9 +14,13 @@ This project analyzed employee demographics in the company, including gender dis
 - **Data Preparation**: CSV files containing employee data were imported into Excel.
 - **Data Cleaning**: The data was cleaned to remove errors and inconsistencies.
 - **Pivot Tables**: Pivot tables were created to summarize and analyze the data.
-- **Dashboard Creation**: Visual representations were generated to illustrate key findings.
+- **Dashboard Creation**: Visual representations were generated to illustrate key findings. 
 
 ### 2️⃣ Project 2: Stock Market Analysis 📈💹
+
+
+
+
 
 **Objective:**
 
