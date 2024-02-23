@@ -1,6 +1,6 @@
 ## Data Analysis Projects Using Microsoft Excel
 
-### Completed as part of Tuwaiq Academy Course
+### Completed as part of the Data Analysis and Visualization Using Microsoft Excel course provided by Tuwaiq Academy.
 
 --- 
 
